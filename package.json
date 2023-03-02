@@ -1,0 +1,24 @@
+{
+  "name": "zhufeng-2021-doc",
+  "version": "1.0.0",
+  "description": "[文档首页1(http请求，图片正常显示)](http://t.zhuzm.icu/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coder-zhuzm/zhufeng-2021-doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coder-zhuzm/zhufeng-2021-doc/issues"
+  },
+  "homepage": "https://github.com/coder-zhuzm/zhufeng-2021-doc#readme",
+  "dependencies": {
+    "http-proxy-middleware": "^2.0.6",
+    "vercel": "^24.0.0"
+  }
+}
