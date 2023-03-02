@@ -1,5 +1,5 @@
 # zhufeng-2021-doc
 
-[文档首页 1](http://t.zhuzm.icu/)
 
-[文档首页 2](https://zhufeng-2021-doc.vercel.app/)
+
+[vercel 文档 https://zhufeng-2021-doc.vercel.app/](https://zhufeng-2021-doc.vercel.app/)
